@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2596BE&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2596BE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Prazer+José+Escudero;+Estudo+Ciencias+da+Computação+Univerdidade+BrazCubas;Moro+em+Mogi+das+Cruzes;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
